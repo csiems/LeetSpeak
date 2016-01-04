@@ -1,0 +1,9 @@
+// The letter "e" should be replaced with "3" (Input "e" should return "3").
+
+// The letter "o" should be replaced with "0" (Input "o" should return "0").
+
+//The capital letter (not the lower case), "I", should be replaced with "1" (Input "I" should return "1").
+
+//All instances of "s"
+  //should be replaced with "z"  (Input "cats" should return "catz")
+  //UNLESS it is the first letter of the word (Input "small" should return "small").
